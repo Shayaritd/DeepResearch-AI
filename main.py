@@ -1,5 +1,5 @@
 def main():
-    print("Hello from deep-agent!")
+    print("Hello from deepagentscourse!")
 
 
 if __name__ == "__main__":
